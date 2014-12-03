@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    firstly it was quite faster than i could have done manually. secondly it also showed 
+    neatly the differences between the two files by showing additions and deletions.
+
+How could having easy access to the entire history of a file make you a better
+programmer in the long term?
+
+    i can go back to each iteration and see the effect of each change i have done.
+    also i think it can help me debug easily and see what change is leading to a program crash.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+    
+    Pros : firstly i can choose to save those edits which i want to thereby saving unneccesary versions piling up.
+    		secondly i have more control on which versions i like to save.
+    Cons : i might forget to manually commit a change which i might realise i need later.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    This is probably because multiple files may share the same content or dependent on the content which has changed
+    h. Thus it is logical to save multiple files in that one commit.
+
+How can you use the commands git log and git diff to view the history of files?
+    
+    using the command git log i can view the entire history of changes that have taken place. using git diff i can compare two commits to see what has changed.
+
+How might using version control make you more confident to make changes that
+could break something?
+    
+    I shall always be confident that even if i break something in the code i can get back and recover my previous working version of the code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    i would want to use git for all my existing and future development projects and code-writing.

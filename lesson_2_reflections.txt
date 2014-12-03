@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+when we initialize a repo i think the git structure with the git required files is created. 
+we require to do it to enable git to start tracking changes in the files in the directory.
