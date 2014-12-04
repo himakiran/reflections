@@ -7,3 +7,5 @@ How is the staging area different from the working directory and the repository?
 
 The staging area consists of a subset of files in the working directory which the user feels are required to be committed.
 I think it enables us to choose between files which we want to commit and not end up committing all files irrespective of changes.
+
+test
