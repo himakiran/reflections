@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 when we initialize a repo i think the git structure with the git required files is created. 
 we require to do it to enable git to start tracking changes in the files in the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area consists of a subset of files in the working directory which the user feels are required to be committed.
+I think it enables us to choose between files which we want to commit and not end up committing all files irrespective of changes.
