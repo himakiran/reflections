@@ -17,3 +17,6 @@ What are some situations when branches would be helpful in keeping your history 
 branches will be helpful; in cases where we want both to save the work we have done and explore a different technique that might have the potential to both
 disrupt or improve the work. so we would need to get back if the different technique is not going to work.
 
+How do the diagrams help you visualize the branch structure?
+
+the diagrams make it easy to see the different branches at a glance and also visualise which commits fall under which branches
