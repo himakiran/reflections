@@ -20,3 +20,11 @@ disrupt or improve the work. so we would need to get back if the different techn
 How do the diagrams help you visualize the branch structure?
 
 the diagrams make it easy to see the different branches at a glance and also visualise which commits fall under which branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the commits from each of the branches are added together. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging always leads to lots of conflicts. i think its better to merge frequently.
