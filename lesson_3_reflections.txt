@@ -14,3 +14,7 @@ Describe the differences between forks, clones, and branches. When would you use
 it shows you subsequently how many local commits have happened and how much the remote is lagging behind. it also aids in helping you to know that you are ahead of the remote
 by prompting you to push the changes to the remote. By having the last known state of the remote stored locally it shall also know exactly how many commits to push
 to remote.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+collaboration w/o git/git hub would be then using dropbox/google docs and multiple copies of each file for collaborator and then running diff to merge them all. 
+This would definitely be harder. Git/Git hub collaboration would be easier.
